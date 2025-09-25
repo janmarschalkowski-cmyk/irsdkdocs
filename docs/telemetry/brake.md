@@ -1,6 +1,6 @@
 # Brake <Badge text="float" />
 
-Brake is a float value determined by the percentage of brake application being applied in-sim after any brake force curves are taken into consideration, with 0 being a closed throttle and 1 being fully open.
+Brake is a float value determined by the percentage of brake application being applied in-sim after any brake force curves are taken into consideration, with 0 being no brake-input and 1 being maximum brake-input.
 
 For the pedal position please see [BrakeRaw](brakeraw.md)
 
